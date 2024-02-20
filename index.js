@@ -33,10 +33,6 @@ const useBubbleSort = (arr=[], i=0, j=0) =>
       )
     )
 
-console.log(useMemePad('test', 20))
-console.log(useBinarySearch([1,2,3,4], 2))
-
-console.log(useBubbleSort([4,3,2,1]))
 
 module.exports = {
   useMemePad,
